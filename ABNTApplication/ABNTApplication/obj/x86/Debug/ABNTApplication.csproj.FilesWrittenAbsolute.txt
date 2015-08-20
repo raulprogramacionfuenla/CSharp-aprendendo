@@ -1,0 +1,5 @@
+/home/vivasalute/Workspace/C#/ABNTApplication/ABNTApplication/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vivasalute/Workspace/C#/ABNTApplication/ABNTApplication/bin/Debug/ABNTApplication.exe.mdb
+/home/vivasalute/Workspace/C#/ABNTApplication/ABNTApplication/bin/Debug/ABNTApplication.exe
+/home/vivasalute/Workspace/C#/ABNTApplication/ABNTApplication/obj/x86/Debug/ABNTApplication.exe
+/home/vivasalute/Workspace/C#/ABNTApplication/ABNTApplication/obj/x86/Debug/ABNTApplication.exe.mdb
