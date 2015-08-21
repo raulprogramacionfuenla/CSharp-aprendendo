@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\bin\Debug\Contatos.exe.config
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\bin\Debug\Contatos.exe
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\bin\Debug\Contatos.pdb
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\obj\Debug\Contatos.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\obj\Debug\Contatos.Cadastro.resources
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\obj\Debug\Contatos.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\obj\Debug\Contatos.exe
+d:\documents\visual studio 2015\Projects\Contatos\Contatos\obj\Debug\Contatos.pdb
