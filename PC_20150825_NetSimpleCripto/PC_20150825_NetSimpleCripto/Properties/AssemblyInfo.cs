@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PC20150818_01")]
+[assembly: AssemblyTitle("PC_20150825_NetSimpleCripto")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PC20150818_01")]
+[assembly: AssemblyProduct("PC_20150825_NetSimpleCripto")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b19a88b3-674d-4349-8f01-21c319b77668")]
+[assembly: Guid("e4ac401b-9daa-449a-b44e-47fcef38031d")]
 
 // Version information for an assembly consists of the following four values:
 //
