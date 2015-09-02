@@ -9,6 +9,7 @@ namespace PC_20150825_NetSimpleCripto {
 		static void Main(string[] args) {
 			string texto = null;
 
+			Console.Clear ();
 			Console.Write("Digite o texto a ser criptografado: ");
 			texto = Console.ReadLine();
 
