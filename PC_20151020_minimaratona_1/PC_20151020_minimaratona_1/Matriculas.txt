@@ -1,0 +1,2 @@
+0001;José da Silva;2;SIM
+0002;Maria da Silva;3;NÃO

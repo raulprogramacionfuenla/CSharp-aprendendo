@@ -1,0 +1,8 @@
+1|Análise e Desenvolvimento de Sistemas|ATIVO
+2|Engenharia Civil|ATIVO
+3|Engenharia da Computação|ATIVO 
+4|Engenharia Elétrica|ATIVO
+5|Redes de Computadores|INATIVO
+6|Sistemas de Informação|ATIVO
+7|Soldagem|ATIVO
+8|Engenharia Mecânica|INATIVO
