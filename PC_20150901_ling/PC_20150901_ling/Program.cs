@@ -11,7 +11,7 @@ namespace PC_20150901_ling {
 		public static void Main (string[] args) {
 			Program.GeraLista ();
 
-			var consulta = from carro in carros where carro.Ano == 2000 select carro;
+			var consulta = from carro in carros where carro.Cor == "preto" select carro;
 
 			foreach(Carro c in consulta){
 				Console.WriteLine(c.Modelo+" "+c.Marca+" "+c.Cor+" "+c.Ano);
